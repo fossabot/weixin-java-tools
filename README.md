@@ -2,6 +2,7 @@ weixin-java-tools
 
 [![Build Status](https://travis-ci.org/chanjarster/weixin-java-tools.svg?branch=develop)](https://travis-ci.org/chanjarster/weixin-java-tools)
 ![Maven Central](https://img.shields.io/maven-central/v/me.chanjar/weixin-java-parent.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchanjarster%2Fweixin-java-tools.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchanjarster%2Fweixin-java-tools?ref=badge_shield)
 
 ===========
 
@@ -60,3 +61,7 @@ weixin-java-tools
 非常欢迎和感谢对本项目发起Pull Request的同学，不过本项目基于[git flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)开发流程，因此在发起Pull Request的时候请选择develop分支。
 
 且本项目代码风格是用2个空格代表一个tab，因此在发起PR时注意一下，否则很容易发生在IDE格式化代码后与原代码产生大量diff，这样我在阅读PR的时候就很困难。
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchanjarster%2Fweixin-java-tools.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchanjarster%2Fweixin-java-tools?ref=badge_large)
